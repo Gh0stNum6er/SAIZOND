@@ -1,6 +1,6 @@
 ---
 title: "Lab1"
-author: "Разаков Дамир БИСО-03-20"
+author: "Айказ Еремян БИСО-03-20"
 format: 
     md:
         output-file: README.md
